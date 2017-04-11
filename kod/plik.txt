@@ -1,6 +1,6 @@
 #include <stdio.h>
+#include <n.curses>
 #include <stdlib.h>
-#include <math.h>    // pow()
 
 /* rozklad_liczby - rozklada liczby na jednosci dziesiatki i setki oraz
    okresla forme gramatyczna przyrostka                                  */
