@@ -233,6 +233,6 @@ cin>>vinyl[kogo-1].autor;                                //jest -1 bo zakladam z
   else
   {
     cout <<"Nie ma plyt w bazie!! Wcisnij ENTER!";
-    getchar();
+    getchar();дждж
   }
 }
